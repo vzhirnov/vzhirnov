@@ -1,9 +1,9 @@
 **Vladimir Zhirnov**</br>
-QA engineer, QA automation engineer, SDET</br>
+QA engineer, QA automation engineer, SDET, Software Engineer</br>
 **Current employment**</br>
-Positive Technologies, QA lead</br>
+Solar, Software Engineer</br>
 **Previous employment**</br>
-F5 Networks(QA engineer), Positive Technologies(QA engineer, Software developer), Wallarm(SDET)</br>
+F5 Networks(QA engineer), Positive Technologies(QA engineer, QA Lead, Software developer), Wallarm(SDET)</br>
 **Projects**</br>
 [POST-JSON-FUZZER](https://github.com/vzhirnov/post_json_fuzzer)</br>
 **Contact**</br>
